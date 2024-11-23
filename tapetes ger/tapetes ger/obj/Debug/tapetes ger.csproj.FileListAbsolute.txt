@@ -1,0 +1,11 @@
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\bin\Debug\tapetes ger.exe
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\bin\Debug\tapetes ger.pdb
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\obj\Debug\tapetes ger.csprojResolveAssemblyReference.cache
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\obj\Debug\tapetes_ger.Form2.resources
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\obj\Debug\tapetes_ger.Form3.resources
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\obj\Debug\tapetes_ger.Form4.resources
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\obj\Debug\tapetes_ger.Form5.resources
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\obj\Debug\tapetes_ger.MainForm.resources
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\obj\Debug\tapetes ger.csproj.GenerateResource.Cache
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\obj\Debug\tapetes ger.exe
+C:\Users\yaell\OneDrive\Documentos\SharpDevelop Projects\tapetes ger\tapetes ger\obj\Debug\tapetes ger.pdb
